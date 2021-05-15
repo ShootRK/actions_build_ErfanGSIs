@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: 58.218.128.202:5212/api/v3/file/get/719/XPERIA_Q_XZP_beta1.zip?sign=DqfgaxLeCBDWkPc7tZW3DEINFfSlqksCJPaZ5bE0Ywo%3D%3A0
+  ROM_URL: http://58.218.128.202:5212/api/v3/file/get/719/XPERIA_Q_XZP_beta1.zip?sign=DqfgaxLeCBDWkPc7tZW3DEINFfSlqksCJPaZ5bE0Ywo%3D%3A0
   ROM_NAME: Generic
   TZ: Asia/Shanghai
 
